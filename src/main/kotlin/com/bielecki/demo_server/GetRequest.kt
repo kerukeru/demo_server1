@@ -5,7 +5,9 @@ import java.io.InputStreamReader
 import java.net.HttpURLConnection
 import java.net.URL
 
-
+/**
+ * robi GET na wskazny adres
+ */
 class GetRequest {
 
 fun myrequest(){
